@@ -1,0 +1,22 @@
+{
+  "item.boilersmod.plane_rear": "Winged Stern",
+  "item.boilersmod.plane_wing": "Wooden Sail",
+  "item.boilersmod.plane_engine": "Rudder n' Wind",
+  "item.boilersmod.wood_chassis": "Captain's Seat",
+  "item.boilersmod.bamboo_chassis": "Eastern Captain's Seat",
+  "item.boilersmod.airship_balloon": "Bag o' Sails",
+  "item.boilersmod.airship_engine": "Wind in a Can",
+  "item.boilersmod.gyrodyne_wheel": "Cabin Boy's Wheel",
+
+  "item.boilersmod.copper_gear": "Bent Copper Dubloon",
+  "item.boilersmod.shrimp_chip": "Chip o' the Sea",
+  "item.boilersmod.trilobite_spawn_egg": "Leviathan's Runt Spawn",
+
+  "boilersmod.subtitle.entity.trilobite.hurt": "Brack-Arrrg-n",
+  "boilersmod.subtitle.entity.trilobite.death": "No More Runt :(",
+
+  "block.boilersmod.miku_block": "Priceless Miku Treasure",
+  "block.boilersmod.beeg_miku_block": "Whale Miku",
+
+  "itemgroup.boilers": "Boilers Treasure Chest"
+}

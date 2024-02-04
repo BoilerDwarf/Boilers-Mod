@@ -1,0 +1,22 @@
+{
+  "item.boilersmod.plane_rear": "Plane Rear",
+  "item.boilersmod.plane_wing": "Plane Wing",
+  "item.boilersmod.plane_engine": "Plane Engine",
+  "item.boilersmod.wood_chassis": "Wood Chassis",
+  "item.boilersmod.bamboo_chassis": "Bamboo Chassis",
+  "item.boilersmod.airship_balloon": "Airship Balloon",
+  "item.boilersmod.airship_engine": "Airship Engine",
+  "item.boilersmod.gyrodyne_wheel": "Gyrodyne Wheel",
+
+  "item.boilersmod.copper_gear": "Copper Gear",
+  "item.boilersmod.shrimp_chip": "Shrimp Chip",
+  "item.boilersmod.trilobite_spawn_egg": "Trilobite Spawn Egg",
+
+  "boilersmod.subtitle.entity.trilobite.hurt": "Bracken",
+  "boilersmod.subtitle.entity.trilobite.death": "No More Trilobite :(",
+
+  "block.boilersmod.miku_block": "Miku Plushie",
+  "block.boilersmod.beeg_miku_block": "Beeg Miku",
+
+  "itemgroup.boilers": "Boilers Mod Stuff"
+}

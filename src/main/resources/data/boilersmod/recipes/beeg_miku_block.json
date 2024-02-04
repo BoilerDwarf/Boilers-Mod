@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MM",
+    "MM"
+  ],
+  "key": {
+    "M": [{"item": "boilersmod:miku_block"}]
+  },
+  "result": {"item": "boilersmod:beeg_miku_block", "count": 1}
+}

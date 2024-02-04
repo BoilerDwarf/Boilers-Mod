@@ -1,0 +1,15 @@
+{
+  "entity_trilobite_hurt": {
+    "sounds": [
+      "boilersmod:entity/trilobite/hurt"
+    ],
+    "subtitle": "boilersmod.subtitle.entity.trilobite.hurt"
+  },
+
+  "entity_trilobite_death": {
+    "sounds": [
+      "boilersmod:entity/trilobite/death"
+    ],
+    "subtitle": "boilersmod.subtitle.entity.trilobite.death"
+  }
+}

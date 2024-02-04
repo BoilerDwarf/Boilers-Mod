@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "boilersmod",
+	"version": "1.0",
+	"name": "Boilers Mod",
+	"description": "Hi my name is Boiler and I don't know how to code. Enjoy my attempts at adding stuff.",
+	"authors": [
+		"Boiler Dwarf, Aureus (who helped make 90% of this possible), and Kaupenjoe for their tutorials"
+	],
+	"contact": {
+		"homepage": "also work in progress",
+		"sources": "work in progress"
+	},
+	"license": "MIT",
+	"icon": "assets/boilersmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.boiler.dwarf.boilersmod.BoilersMod"
+		],
+		"client": [
+			"com.boiler.dwarf.boilersmod.BoilersModClient"
+		],
+		"fabric-datagen": [
+			"com.boiler.dwarf.boilersmod.BoilersModDataGenerator"
+		]
+	},
+	"mixins": [
+
+	],
+	"depends": {
+		"fabricloader": ">=0.15.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "immersive_aircraft"
+	}
+}

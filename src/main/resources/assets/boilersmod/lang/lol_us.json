@@ -1,0 +1,22 @@
+{
+  "item.boilersmod.plane_rear": "Playn Butt",
+  "item.boilersmod.plane_wing": "Playn Weengz",
+  "item.boilersmod.plane_engine": "Playn Noize Makur",
+  "item.boilersmod.wood_chassis": "Wuud Bod",
+  "item.boilersmod.bamboo_chassis": "Bambu Bod",
+  "item.boilersmod.airship_balloon": "BALLOON",
+  "item.boilersmod.airship_engine": "Air Sippy Noize Makur",
+  "item.boilersmod.gyrodyne_wheel": "Jirodine Weel",
+
+  "item.boilersmod.copper_gear": "Shinny Spinny",
+  "item.boilersmod.shrimp_chip": "Shramp Chap",
+  "item.boilersmod.trilobite_spawn_egg": "Anchent Crab Eggy",
+
+  "boilersmod.subtitle.entity.trilobite.hurt": "Owie Crab",
+  "boilersmod.subtitle.entity.trilobite.death": "No More Crab :(",
+
+  "block.boilersmod.miku_block": "Hatsune Miku!!!!",
+  "block.boilersmod.beeg_miku_block": "BEEG HATSUNE MIKO OMG!!!1!!",
+
+  "itemgroup.boilers": "Boilerz Stuff (No Gurlz Aloud)"
+}

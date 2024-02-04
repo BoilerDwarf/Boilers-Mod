@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "COC",
+    "BWB"
+  ],
+  "key": {
+    "C": [{"item": "minecraft:cyan_wool"}],
+    "O": [{"item": "minecraft:orange_wool"}],
+    "B": [{"item": "minecraft:black_wool"}],
+    "W": [{"item": "minecraft:white_wool"}]
+  },
+  "result": {"item": "boilersmod:miku_block", "count": 1}
+}

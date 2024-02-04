@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "boilersmod:block/beeg_miku_block" },
+    "facing=east":  { "model": "boilersmod:block/beeg_miku_block", "y":  90 },
+    "facing=south": { "model": "boilersmod:block/beeg_miku_block", "y": 180 },
+    "facing=west":  { "model": "boilersmod:block/beeg_miku_block", "y": 270 }
+  }
+}

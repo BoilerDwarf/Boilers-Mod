@@ -1,0 +1,11 @@
+{
+	"required": false,
+	"package": "com.boiler.dwarf.boilersmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
